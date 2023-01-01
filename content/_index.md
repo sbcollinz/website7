@@ -5,7 +5,7 @@ action_type: text
 description: This is my website.
 image_left: true
 images:
-- img/revoir.jpg
+- img/Nina.jpg
 show_action_link: true
 show_social_links: true
 subtitle: A guy who lives in Palmerston North/Palmy/Papaioea, New Zealand.
