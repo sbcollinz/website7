@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /publications/
-description: Give your projects a place to live online.
+description: I have one publication.
 layout: list-grid
 show_author_byline: true
 show_button_links: false
