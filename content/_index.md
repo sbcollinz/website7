@@ -8,7 +8,7 @@ images:
 - img/Nina.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A guy who lives in Palmerston North/Palmy/Papaioea, New Zealand.
+subtitle: A guy who lives in Palmerston North/Palmy/Papaioea, New Zealand :new_zealand:
 text_align_left: false
 title: Stephen Collins
 type: home
