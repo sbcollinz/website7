@@ -7,6 +7,6 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm an environmental scientist, a property manager and one of Nina's dads.
+I'm a PhD student and one of Nina's dads.
 
 The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
