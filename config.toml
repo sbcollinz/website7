@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "grayscale"
+  theme = "water"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -123,7 +123,7 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About me"
-    title = "About Blogophonic"
+    title = "About me"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -131,11 +131,11 @@ enableEmoji = true
     title = "Blog"
     url = "/blog/"
     weight = 2
-  [[menu.header]]
-    name = "Publications"
-    title = "Publications"
-    url = "/publications/"
-    weight = 3
+  #[[menu.header]]
+    #name = "Publications"
+    #title = "Publications"
+    #url = "/publications/"
+    #weight = 3
   #[[menu.header]]
     #name = "Projects"
     #title = "Project Portfolio"
